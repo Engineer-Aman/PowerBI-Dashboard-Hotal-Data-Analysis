@@ -1,4 +1,4 @@
-# PowerBI-Dashboard-Hotal-Data-Analysis
+# PowerBI-Report-Hotal-Data-Analysis
 It's an Hotel data analysis of revenue insight's and other key matrices of hospitality domain. 
 
 
